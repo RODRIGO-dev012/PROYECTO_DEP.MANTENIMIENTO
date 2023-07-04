@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<connectionStrings>
+		<add name="ConexionBd" connectionString="server=localhost;database=hotel_def;uid=root;pwd=;" providerName="MySql.Data.MySqlClient" />
+	</connectionStrings>
+</configuration>
